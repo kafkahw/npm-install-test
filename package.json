@@ -1,0 +1,15 @@
+{
+  "name": "npm-package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "healthelastic-react": "git+https://github.cerner.com/HealtheLife/healthelastic-react.git#test-package-install",
+    "test-package-json-scripts": "git+https://github.com/AlexanderOMara/test-package-json-scripts.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
