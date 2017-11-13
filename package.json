@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "healthelastic-react": "git+https://github.cerner.com/HealtheLife/healthelastic-react.git#test-package-install",
-    "test-package-json-scripts": "git+https://github.com/AlexanderOMara/test-package-json-scripts.git"
+    "test-lib": "../../test-lib"
   },
   "author": "",
   "license": "ISC"
