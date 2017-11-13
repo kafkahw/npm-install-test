@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "test-lib": "git+https://github.cerner.com/wh026399/test-lib.git"
+    "node-package1": "git+https://github.com/kafkahw/node-package1.git"
   },
   "author": "",
   "license": "ISC"
